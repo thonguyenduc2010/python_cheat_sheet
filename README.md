@@ -1,2 +1,2 @@
 # python_cheat_sheet
-Pythong cheat sheet
+Python cheat sheet
